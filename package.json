@@ -1,0 +1,12 @@
+{
+  "name": "pr-validation-demo",
+  "version": "1.0.0",
+  "description": "pull request demo",
+  "license": "ISC",
+  "author": "Bhawya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
